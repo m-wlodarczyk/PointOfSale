@@ -9,6 +9,10 @@ There are 3 types of commands: adding a product to a receipt, exiting one shoppi
 2244-4771 //user input
 Name: Orange Price: 1.99 
 ```
+```
+224-471 //user input
+Invalid bar-code
+```
  - To finish one shopping user has to type 'exit' command which will sum up the action, print the total value of purchased items on the console and create a receipt file. The receipt file will be created in the project directory with a name that follows a given pattern - "Receipt " + date.
 ```
 exit //user input

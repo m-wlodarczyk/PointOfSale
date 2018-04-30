@@ -14,6 +14,6 @@ public class LcdDisplay implements OutputDevice<Product> {
     }
 
     public void error() {
-        System.out.println("Invalid barcode");
+        System.out.println("Invalid bar-code");
     }
 }
