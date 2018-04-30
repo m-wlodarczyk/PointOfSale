@@ -1,5 +1,4 @@
-# PointOfSale
-###Manual
+#Manual
 The database consists of 50 products. Each products has a name, price and a randomly generated barcode.
 
 There are 3 types of commands: adding a product to a receipt, exiting one shopping action and turning off the Point of Sale system:
@@ -28,4 +27,6 @@ poweroff //user input
 Point of Sale system shutdown.
 ```  
 
-######Created by Michał Włodarczyk
+
+
+Created by Michał Włodarczyk
